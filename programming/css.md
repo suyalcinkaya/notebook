@@ -1,6 +1,6 @@
 # CSS
 
-## Not select
+## no-select
 ```css
 .no-select {
     -webkit-user-select: none;  /* Chrome all / Safari all */
@@ -11,8 +11,6 @@
 ```
 
 ## Animation
-
-Animated:
 ```css
 .animated {
     animation-duration: 1s;
@@ -20,7 +18,7 @@ Animated:
 }
 ```
 
-Delay:
+## Animation delay
 ```css
 .delayed_025s {
     -webkit-animation-delay: .25s;
@@ -29,7 +27,7 @@ Delay:
 }
 ```
 
-### fadein
+## fadein
 Usage:
 ```css
 .fadeIn {
@@ -39,7 +37,6 @@ Usage:
 ```
 
 Definition:
-
 ```css
 @keyframes fadeIn {
     from {
@@ -62,7 +59,6 @@ Usage:
 ```
 
 Definition:
-
 ```css
 @keyframes fadeInDown {
     from {
