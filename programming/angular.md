@@ -1,5 +1,4 @@
 # Angular
-My personal and public notes while practising on Angular.
 
 ## Good to know
 Install [Node.js](https://nodejs.org/en/download/) if it is not already. 
@@ -9,34 +8,53 @@ Editors:
 - [Webstorm](https://www.jetbrains.com/webstorm/)
 - [Sublime Text](https://www.sublimetext.com/)
 - [Atom](https://atom.io/)
+- [Angular Live Editor](https://stackblitz.com/angular/lkvbnprvxxq)
 
 ## Basic setup
 <img src="https://cli.angular.io/images/cli-logo.svg">
 
-Navigate to ```http://localhost:4200/``` in default. The app will automatically reload for any changes in the source files.
+Navigate to `http://localhost:4200/` in default. The app will automatically reload for any changes in the source files.
 
 ## Useful Commands
-- Use ```ng serve --open``` or ```ng serve -o``` to open the browser on ```http://localhost:4200/```.
-- Use ```ng serve --port 1903``` to serve on custom port.
-- Use ```ng test``` to run all unit tests.
-- Use ```ng build``` to build and bundle the application for deployment.
+- Use `ng serve --open` or `ng serve -o` to open the browser on `http://localhost:4200/`.
+- Use `ng serve --port 1903` to serve on custom port.
+- Use `ng test` to run all unit tests.
+- Use `ng build` to build and bundle the application for deployment.
     > `development`: default mode, do not minify or uglify code,
     
     > `production`: minify and uglify code.
-    - To build for production: ```ng build --target=production```
-- Use ```ng new my-dream-app --style=scss``` for scss instead of css(default).
-- Use ```ng generate class my-new-module``` or ```ng g cl my-new-module``` to add a module.
-- Use ```ng generate class my-new-class``` or ```ng g cl my-new-class``` to add a class.
-- Use ```ng generate component my-new-component``` or ```ng g cl my-new-component``` to add a component.
-- Use ```ng generate service my-new-service``` or ```ng g cl my-new-service``` to add a service.
-- Use ```ng generate directive  my-new-directive``` or ```ng g cl my-new-directive``` to add a directive.
-- Use ```ng generate enum my-new-enum``` or ```ng g cl my-new-enum``` to add a enum.
+    - To build for production: `ng build --target=production`
+- Use `ng new my-dream-app --style=scss` for scss instead of css(default).
+- Use `ng generate class my-new-module` or `ng g cl my-new-module` to add a module.
+- Use `ng generate class my-new-class` or `ng g cl my-new-class` to add a class.
+- Use `ng generate component my-new-component` or `ng g cl my-new-component` to add a component.
+- Use `ng generate service my-new-service` or `ng g cl my-new-service` to add a service.
+- Use `ng generate directive  my-new-directive` or `ng g cl my-new-directive` to add a directive.
+- Use `ng generate enum my-new-enum` or `ng g cl my-new-enum` to add a enum.
 - Angular CLI will automatically adjust the letter case of the file name, so the following commands have the same effect:
     > All three commands are equivalent
-    - ```ng generate class my-new-class```
-    - ```ng generate class myNewClass```
-    - ```ng generate class MyNewClass```
+    - `ng generate class my-new-class`
+    - `ng generate class myNewClass`
+    - `ng generate class MyNewClass`
     
+## Comparison to AngularJS
+_Angular_ is the name for the Angular of today and tomorrow. _AngularJS_ is the name for all v1.x versions of Angular.
+
+AngularJS | Angular
+--- | ---
+<br/> **Bindings/interpolation** <br/><br/> Your favorite hero is: `{{vm.favoriteHero}}` <br/><br/> | <br/> **Bindings/interpolation** <br/><br/> Your favorite hero is: `{{favoriteHero}}` <br/><br/>
+<br/> **Filters** <br/><br/> `{{vm.movie.title \| uppercase}}` <br/><br/> | <br/> **Pipes** <br/><br/> `{{movie.title \| uppercase}}` <br/><br/>
+<br/> **ng-repeat** <br/><br/> `<tr ng-repeat="movie in vm.movies">` <br/><br/> | <br/> **\*ngFor** <br/><br/> `<tr *ngFor="let movie of movies">` <br/><br/>
+<br/> **ng-class** <br/><br/> `<div ng-class="{blue: vm.isBlue, green: vm.isGreen}">` <br/><br/> | <br/> **ngClass** <br/><br/> `<div [ngClass]="{'blue': isBlue, 'green': isGreen}">` <br/><br/>
+<br/> **ng-click** <br/><br/> `<button ng-click="vm.foo()">` <br/><br/> | <br/> **Bind to the** click **event** <br/><br/> `<button (click)="foo()">` <br/><br/>
+<br/> **ng-href** <br/><br/> `<a ng-href="{{vm.url}}">Link</a>` <br/><br/> | <br/> **Bind to the** href **event** <br/><br/> `<a [href]="url">Link</a>` <br/><br/>
+<br/> **ng-if** <br/><br/> `<table ng-if="vm.movies.length">` <br/><br/> | <br/> **\*ngIf** <br/><br/> `<table *ngIf="movies.length">` <br/><br/>
+<br/> **ng-model** <br/><br/> `<input ng-model="vm.favoriteHero" />` <br/><br/> | <br/> **ngModel** <br/><br/> `<input [(ngModel)]="favoriteHero" />` <br/><br/>
+<br/> **ng-hide** <br/><br/> `<h3 ng-hide="vm.favoriteHero">{{vm.favoriteHero}}</h3>` <br/><br/> | <br/> **Bind to the** hidden **property** <br/><br/> `<h3 [hidden]="favoriteHero">{{favoriteHero}}</h3>` <br/><br/>
+<br/> **ng-show** <br/><br/> `<h3 ng-show="vm.favoriteHero">{{vm.favoriteHero}}</h3>` <br/><br/> | <br/> **Bind to the** hidden **property** <br/><br/> `<h3 [hidden]="!favoriteHero">{{favoriteHero}}</h3>` <br/><br/>
+<br/> **ng-src** <br/><br/> `<img ng-src="{{vm.movie.imageurl}}">` <br/><br/> | <br/> **Bind to the** src **property** <br/><br/> `<img [src]="movie.imageurl">` <br/><br/>
+<br/> **ng-style** <br/><br/> `<div ng-style="{color: vm.colorPreference}">` <br/><br/> | <br/> **ngStyle** <br/><br/> `<div [ngStyle]="{'color': colorPreference}">` <br/><br/>
+
 ## Useful Links
 - Videos
     - English
