@@ -16,14 +16,6 @@ Editors:
 Navigate to `http://localhost:4200/` in default. The app will automatically reload for any changes in the source files.
 
 ## Useful Commands
-- Use `ng serve --open` or `ng serve -o` to open the browser on `http://localhost:4200/`.
-- Use `ng serve --port 1903` to serve on custom port.
-- Use `ng test` to run all unit tests.
-- Use `ng build` to build and bundle the application for deployment.
-    > `development`: default mode, do not minify or uglify code,
-    
-    > `production`: minify and uglify code.
-    - To build for production: `ng build --target=production`
 - Use `ng new my-dream-app --style=scss` for scss instead of css(default).
 - Use `ng generate class my-new-module` or `ng g cl my-new-module` to add a module.
 - Use `ng generate class my-new-class` or `ng g cl my-new-class` to add a class.
@@ -36,6 +28,14 @@ Navigate to `http://localhost:4200/` in default. The app will automatically relo
     - `ng generate class my-new-class`
     - `ng generate class myNewClass`
     - `ng generate class MyNewClass`
+- Use `ng serve --open` or `ng serve -o` to open the browser on `http://localhost:4200/`.
+- Use `ng serve --port 1903` to serve on custom port.
+- Use `ng test` to run all unit tests.
+- Use `ng build` to build and bundle the application for deployment.
+    > `development`: default mode, do not minify or uglify code,
+    
+    > `production`: minify and uglify code.
+    - To build for production: `ng build --target=production`
     
 ## Comparison to AngularJS
 _Angular_ is the name for the Angular of today and tomorrow. _AngularJS_ is the name for all v1.x versions of Angular.
@@ -54,6 +54,36 @@ AngularJS | Angular
 <br/> **ng-show** <br/><br/> `<h3 ng-show="vm.favoriteHero">{{vm.favoriteHero}}</h3>` <br/><br/> | <br/> **Bind to the** hidden **property** <br/><br/> `<h3 [hidden]="!favoriteHero">{{favoriteHero}}</h3>` <br/><br/>
 <br/> **ng-src** <br/><br/> `<img ng-src="{{vm.movie.imageurl}}">` <br/><br/> | <br/> **Bind to the** src **property** <br/><br/> `<img [src]="movie.imageurl">` <br/><br/>
 <br/> **ng-style** <br/><br/> `<div ng-style="{color: vm.colorPreference}">` <br/><br/> | <br/> **ngStyle** <br/><br/> `<div [ngStyle]="{'color': colorPreference}">` <br/><br/>
+
+### trackBy Usage & Comparison
+- AngularJS
+
+    ```html
+    <tr ng-repeat="movie in vm.movies track by movie.id">
+    ```
+
+- Angular
+
+    ```typescript
+    @Component({
+      selector: 'my-app',
+      template: `
+        <ul>
+          <li *ngFor="let movie of movies; trackBy: trackId">{{movie.id}}</li>
+        </ul>
+      `,
+    })
+    
+    export class App {
+      constructor() {
+        this.movies = [{id: 1}, {id: 2}, {id: 3}];
+      }
+      
+      trackId(index: number, item: Item) {
+        return item.id; // or index
+      }
+    }
+    ```
 
 ## Useful Links
 - Videos
