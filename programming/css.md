@@ -78,3 +78,21 @@ Delay for 0.25 seconds;
 -moz-animation-delay: .25s;
 animation-delay: .25s;
 ```
+
+## font-face
+Usage:
+```css
+font-family: 'Font', sans-serif;
+```
+
+Definition:
+```css
+@font-face {
+    font-family: 'Font';
+    src: url('../fonts/font_regular.woff2') format('woff2'), /* Super Modern Browsers */
+        url('../fonts/font_regular.woff') format('woff'), /* Pretty Modern Browsers */
+        url('../fonts/font_regular.ttf') format('truetype'); /* Safari, Android, iOS */
+    font-weight: 400;
+    font-style: normal;
+}
+```
