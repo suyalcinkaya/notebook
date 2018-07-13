@@ -11,7 +11,15 @@ Editors:
 - [Angular Live Editor](https://stackblitz.com/angular/lkvbnprvxxq)
 
 ## Basic setup
-<img src="https://cli.angular.io/images/cli-logo.svg">
+```bash
+npm install -g @angular/cli
+
+ng new my-project
+
+cd my-project
+
+ng serve
+```
 
 Navigate to `http://localhost:4200/` in default. The app will automatically reload for any changes in the source files.
 

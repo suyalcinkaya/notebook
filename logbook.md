@@ -7,6 +7,9 @@
 
 ## 2018
 
+#### Jul 12
+I learned 3-5-8 aka "Sergeant Major" card game.
+
 #### June 24
 Went to Bozcaada with Melis. Drove more than 5 hours with the crazy weather.
 

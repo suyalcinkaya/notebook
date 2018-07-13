@@ -1,0 +1,3 @@
+# Football Manager
+
+Thoughts, tactics, shortlists and wonderkids will be added...
