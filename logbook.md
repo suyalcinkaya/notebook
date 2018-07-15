@@ -7,6 +7,9 @@
 
 ## 2018
 
+#### Jul 14
+Researched and practised about Vue.js and I liked it.
+
 #### Jul 12
 I learned 3-5-8 aka "Sergeant Major" card game.
 
