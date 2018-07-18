@@ -25,18 +25,19 @@ Navigate to `http://localhost:4200/` in default. The app will automatically relo
 
 ## Useful Commands
 - Use `ng new my-dream-app --style=scss` for scss instead of css(default).
-- Use `ng generate class my-new-module` or `ng g cl my-new-module` to add a module.
+- Use `ng generate module my-new-module` or `ng g module my-new-module` to add a module.
 - Use `ng generate class my-new-class` or `ng g cl my-new-class` to add a class.
-- Use `ng generate component my-new-component` or `ng g cl my-new-component` to add a component.
-- Use `ng generate service my-new-service` or `ng g cl my-new-service` to add a service.
-- Use `ng generate directive  my-new-directive` or `ng g cl my-new-directive` to add a directive.
-- Use `ng generate enum my-new-enum` or `ng g cl my-new-enum` to add a enum.
+- Use `ng generate component my-new-component` or `ng g c my-new-component` to add a component.
+- Use `ng generate service my-new-service` or `ng g s my-new-service` to add a service.
+- Use `ng generate directive  my-new-directive` or `ng g directive my-new-directive` to add a directive.
+- Use `ng generate enum my-new-enum` or `ng g enum my-new-enum` to add a enum.
 - Angular CLI will automatically adjust the letter case of the file name, so the following commands have the same effect:
     > All three commands are equivalent
     - `ng generate class my-new-class`
     - `ng generate class myNewClass`
     - `ng generate class MyNewClass`
-- Use `ng serve --open` or `ng serve -o` to open the browser on `http://localhost:4200/`.
+- Use `ng g c components/my-new-component` to generate a component in '**components**' folder.
+- Use `ng serve --open` or `ng serve -o` or `ng s -o` to open the browser on `http://localhost:4200/`.
 - Use `ng serve --port 1903` to serve on custom port.
 - Use `ng test` to run all unit tests.
 - Use `ng build` to build and bundle the application for deployment.
@@ -106,6 +107,9 @@ AngularJS | Angular
         - [Angular 4 Eğitimi](https://www.youtube.com/watch?v=PbgKzD_0naM)
         - [TypeScript ile Angular 2 Uygulamaları Geliştirmek - Bora Kaşmer](https://www.youtube.com/watch?v=-G7Dq028thg)
 - Articles
+    - English
+        - [Quick Angular CLI Reference](https://alligator.io/angular/angular-cli-reference/)
+        - [Angular CLI Reference](https://cli.angular.io/reference.pdf)
 - Books
     - English
         - [ng-book](https://www.ng-book.com/2/)
