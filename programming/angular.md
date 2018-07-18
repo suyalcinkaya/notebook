@@ -78,7 +78,7 @@ AngularJS | Angular
       selector: 'my-app',
       template: `
         <ul>
-          <li *ngFor="let movie of movies; trackBy: trackId">{{movie.id}}</li>
+          <li *ngFor="let movie of movies; trackBy: trackId(index, movie)">{{movie.id}}</li>
         </ul>
       `,
     })
