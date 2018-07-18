@@ -102,4 +102,4 @@ Definition:
 - [The Admin](http://thetheme.io/theadmin/)
 - [Semantic UI](https://semantic-ui.com/)
 - [Bootstrap](https://getbootstrap.com/)
-- [Animate](https://daneden.github.io/animate.css/)
+- [Animate.css](https://daneden.github.io/animate.css/)
