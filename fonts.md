@@ -6,3 +6,4 @@ Favorite font list.
 - [Maison Neue](https://www.milieugrotesque.com/typefaces/maison_neue/)
 - [Circular](https://lineto.com/The+Fonts/Font+Categories/Text+Fonts/Circular/)
 - [Avenir](https://www.myfonts.com/fonts/linotype/avenir/)
+- [Gordita](https://www.fontspring.com/fonts/gillett-studio/gordita)
