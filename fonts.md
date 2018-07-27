@@ -9,3 +9,4 @@ Favorite font list.
 - [Avenir](https://www.myfonts.com/fonts/linotype/avenir/)
 - [Gordita](https://www.fontspring.com/fonts/gillett-studio/gordita)
 - [Inter UI](https://rsms.me/inter/)
+- [Raisonne](https://www.colophon-foundry.org/typefaces/raisonne/)
