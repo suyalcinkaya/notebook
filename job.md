@@ -13,3 +13,5 @@
 - [Job in Amsterdam](http://www.jobinamsterdam.com/search?q=java)
 - [Iamexpat Fair](https://www.iamexpat.nl/career/jobs-netherlands/all-regions/java)
 - [Together Abroad](https://www.togetherabroad.nl/)
+- [Indeed](https://www.indeed.com/)
+- [Stack Overflow Jobs](https://stackoverflow.com/jobs?sort=i&l=Amsterdam%2C+Hollanda&d=50&u=Km&v=true)
