@@ -6,7 +6,7 @@
     
     `cd 'project-path'`
     
-    `http-server -p 1903`
+    `http-server` or `http-server -p 1903` to serve at custom port.
     
 - [live-server: a simple development http server with live reload capability.](https://github.com/tapio/live-server)
 
@@ -14,4 +14,4 @@
     
     `cd 'project-path'`
     
-    `live-server --port=1903`
+    `live-server` or `live-server --port=1903` to serve at custom port.
