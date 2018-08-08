@@ -29,6 +29,7 @@ Navigate to `http://localhost:4200/` in default. The app will automatically relo
 - Use `ng generate module my-new-module` or `ng g module my-new-module` to add a module.
 - Use `ng generate class my-new-class` or `ng g cl my-new-class` to add a class.
 - Use `ng generate component my-new-component` or `ng g c my-new-component` to add a component.
+- Use `ng g c my-new-component --spec false` to add a component without .spec file.
 - Use `ng generate service my-new-service` or `ng g s my-new-service` to add a service.
 - Use `ng generate directive  my-new-directive` or `ng g directive my-new-directive` to add a directive.
 - Use `ng generate enum my-new-enum` or `ng g enum my-new-enum` to add a enum.
