@@ -24,6 +24,7 @@ ng serve
 Navigate to `http://localhost:4200/` in default. The app will automatically reload for any changes in the source files.
 
 ## Useful Commands
+- Use `ng --version` to check Angular CLI version.
 - Use `ng new my-dream-app --style=scss` for scss instead of css(default).
 - Use `ng generate module my-new-module` or `ng g module my-new-module` to add a module.
 - Use `ng generate class my-new-class` or `ng g cl my-new-class` to add a class.
