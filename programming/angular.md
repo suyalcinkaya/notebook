@@ -28,6 +28,7 @@ Navigate to `http://localhost:4200/` in default. The app will automatically relo
 - Use `ng new my-dream-app --style=scss` for scss instead of css(default).
 - Use `ng generate module my-new-module` or `ng g module my-new-module` to add a module.
 - Use `ng generate class my-new-class` or `ng g cl my-new-class` to add a class.
+- Use `ng generate interface my-new-interface <type>` to add an interface.
 - Use `ng generate component my-new-component` or `ng g c my-new-component` to add a component.
 - Use `ng g c my-new-component --spec false` to add a component without .spec file.
 - Use `ng generate service my-new-service` or `ng g s my-new-service` to add a service.
