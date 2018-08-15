@@ -102,5 +102,6 @@ Definition:
 - [Milligram](https://milligram.io/)
 - [Semantic UI](https://semantic-ui.com/)
 - [Bootstrap](https://getbootstrap.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 - [The Admin](http://thetheme.io/theadmin/)
 - [Animate.css](https://daneden.github.io/animate.css/)
