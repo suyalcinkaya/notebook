@@ -103,5 +103,6 @@ Definition:
 - [Semantic UI](https://semantic-ui.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Tachyons](https://tachyons.io/)
 - [The Admin](http://thetheme.io/theadmin/)
 - [Animate.css](https://daneden.github.io/animate.css/)
