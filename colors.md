@@ -23,3 +23,4 @@ My favorite colors.
 - ![#00E6B5](https://placehold.it/15/00E6B5/000000?text=+) `#00E6B5`
 - ![#00E696](https://placehold.it/15/00E696/000000?text=+) `#00E696`
 - ![#B6DABF](https://placehold.it/15/B6DABF/000000?text=+) `#B6DABF`
+- ![#eb6f93](https://placehold.it/15/eb6f93/000000?text=+) `#eb6f93`
