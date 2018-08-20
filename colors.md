@@ -1,7 +1,5 @@
 # colors
 
-My favorite colors.
-
 - ![#FFFCF5](https://placehold.it/15/FFFCF5/000000?text=+) `#FFFCF5`
 - ![#F0DFE4](https://placehold.it/15/F0DFE4/000000?text=+) `#F0DFE4`
 - ![#FA9A94](https://placehold.it/15/FA9A94/000000?text=+) `#FA9A94`
