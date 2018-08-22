@@ -25,6 +25,24 @@
 user-select: none;              /* Likely future */  
 ```
 
+## Centering with grid
+Html
+```html
+<span>I'm centered!</span>
+```
+
+Css
+```css
+body, html {
+  height: 100%;
+  display: grid;
+}
+
+span {
+  margin: auto;
+}
+```
+
 ## fadeIn animation
 Usage:
 ```css
