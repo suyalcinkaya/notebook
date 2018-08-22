@@ -79,6 +79,57 @@ Delay for 0.25 seconds;
 animation-delay: .25s;
 ```
 
+## Hover effect
+```css
+box-shadow: 0 5px 10px 0 rgba(69, 129, 208, 0.12);
+```
+
+## Transition effect
+```css
+-webkit-transition: 0.3s;
+transition: 0.3s;
+```
+
+## Transition slide-in
+Usage:
+```css
+-webkit-animation: 3s slide-in 0.5s forwards;
+animation: 3s slide-in 0.5s forwards;
+```
+
+Definition:
+```css
+@-webkit-keyframes slide-in {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(104px);
+    transform: translateY(104px); 
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px); 
+  } 
+}
+
+@keyframes slide-in {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(104px);
+    transform: translateY(104px); 
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0px);
+    transform: translateY(0px); 
+  } 
+}
+```
+
+
+
+
+
 ## font-face
 Usage:
 ```css
