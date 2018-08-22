@@ -7,6 +7,12 @@
 
 ## 2018
 
+#### August 22
+Moving Bodrum, Mugla today for festive holiday.
+
+#### August 17
+Created Notiful extension just for fun.
+
 #### August 10
 I resigned from my job at Sistaş.
 
