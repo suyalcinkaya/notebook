@@ -1,0 +1,33 @@
+# UI ideas & improvements
+
+## Improvement websites
+- [RefactoringUI](https://refactoringui.com/)
+
+## UI tricks
+- [input :not(:placeholder-shown)](https://codepen.io/anon/pen/PaJZxa)
+- [Code Input Field](https://codepen.io/anon/pen/aKPmXb)
+- [Night mode switch](https://codepen.io/andreasstorm/pen/MrrppK)
+- [Input Radio](https://codepen.io/andreasstorm/pen/NwyQEX)
+- [Material Design Radio Buttons](https://codepen.io/andreasstorm/pen/jxjKGj)
+- [Rectangle loading](https://codepen.io/exah/pen/VYLNJG)
+- [Android Nougat update animation](https://codepen.io/stevn/pen/kXyKjQ)
+- [Loading...](https://codepen.io/rikschennink/pen/oLoGNb)
+- [Dropdown Button :: Pure CSS](https://codepen.io/andytran/pen/vLNGvN)
+- [Fixed Post Header](https://codepen.io/WhiteWolfWizard/pen/pJGPZE)
+- [Animation submit button](https://codepen.io/valentingalmand/pen/MYMZZK)
+- [Card effect](https://codepen.io/daneden/pen/QwZBoO)
+- [Download SVG Micro Interaction](https://codepen.io/andreasstorm/pen/aGqNJR)
+- [Checkbox](https://codepen.io/andreasstorm/pen/yjLGGN)
+- [Material Design Checkbox](https://codepen.io/andreasstorm/pen/deRvMy)
+- [Checkbox Animation](https://codepen.io/andreasstorm/pen/ybPwre)
+- [Checkbox SVG Path Animation](https://codepen.io/andreasstorm/pen/Mowqre)
+- [Login Form UI](https://codepen.io/dongepulango/pen/aBQqyx)
+- [Radio Button - YesxNo](https://codepen.io/andreasstorm/pen/peCbd)
+- [Flexbox Toggles](https://codepen.io/shshaw/pen/EbjvbQ)
+- [del & ins](https://codepen.io/yuanchuan/pen/pVayze)
+- [Gradient [deg]](https://codepen.io/andreasstorm/pen/syvoL)
+- [Back to Home](https://codepen.io/Thomascullen/pen/mBepNx)
+- [TinyPolyWorld - ThreeJS experiements.](https://codepen.io/Zultan/pen/mwGZBP)
+- [Blob](https://codepen.io/shubniggurath/pen/EmMzpp)
+- [Search](https://codepen.io/andreasstorm/pen/LEmaNG)
+- [Material - Floating label](https://codepen.io/andreasstorm/pen/JXQLdN)
