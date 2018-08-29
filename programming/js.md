@@ -8,6 +8,7 @@
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Best practices for JavaScript projects](https://github.com/elsewhencode/project-guidelines)
 - [Cheatsheet for the JavaScript](https://github.com/mbeaudru/modern-js-cheatsheet)
+- [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/#react-arrow-functions)
 
 #### Libraries
 
