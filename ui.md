@@ -1,9 +1,10 @@
-# UI ideas & improvements
+# UI improvements & tricks
 
-## Improvement websites
+#### Improvements
 - [RefactoringUI](https://refactoringui.com/)
+- [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
 
-## UI tricks
+#### UI tricks
 - [input :not(:placeholder-shown)](https://codepen.io/anon/pen/PaJZxa)
 - [Code Input Field](https://codepen.io/anon/pen/aKPmXb)
 - [Night mode switch](https://codepen.io/andreasstorm/pen/MrrppK)
