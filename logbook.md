@@ -7,6 +7,9 @@
 
 ## 2018
 
+#### September 3
+I started working for Yemeksepeti.
+
 #### August 22
 Moving Bodrum, Mugla today for festive holiday.
 
