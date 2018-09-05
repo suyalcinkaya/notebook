@@ -19,3 +19,4 @@
 - [tyke](https://tyke.app/) — A little bit of scratch paper that lives on Mac menu bar.
 - [Pretzel](https://www.amie-chen.com/pretzel/) — A smart, simple desktop app that shows and searches keyboard shortcuts based on your currently focused app.
 - [Clock.saver](https://github.com/soffes/Clock.saver) — Mac screensaver inspired by the Braun watches.
+- [TermBar](http://termbar.com/) — TermBar puts the command line in your Menubar.
