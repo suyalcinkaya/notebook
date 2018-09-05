@@ -15,3 +15,4 @@
 - [Moom](https://manytricks.com/moom/) — Moom makes window management as easy as clicking a mouse button—or using a keyboard shortcut.
 - [HyperDock](https://bahoom.com/hyperdock/) — Select individual application windows just by moving the mouse on a dock item.
 - [Haptic Touch Bar](https://www.haptictouchbar.com/) — Haptic Touch Bar provides actual feedback when pressing buttons on your Touch Bar.
+- [Scroll Reverser](https://pilotmoon.com/scrollreverser/) — Scroll Reverser reverses the direction of scrolling. It has independent settings for trackpads, mice and Wacom tablets, and for horizontal and vertical scrolling.
