@@ -38,3 +38,4 @@
 - [ugmonk](https://ugmonk.com/)
 - [crew.co](https://crew.co/)
 - [jenny cho](https://www.jennysecho.com/)
+- [travis ci status](https://www.traviscistatus.com/)
