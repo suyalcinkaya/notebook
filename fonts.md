@@ -15,6 +15,7 @@ Favorite font list.
 - [Raisonne](https://www.colophon-foundry.org/typefaces/raisonne/)
 - [Cera Pro](https://www.typemates.com/fonts/cera-pro)
 - [San Francisco](https://developer.apple.com/fonts/)
+- [Space Grotesk](https://fonts.floriankarsten.com/space-grotesk)
 
 ### Code
 
