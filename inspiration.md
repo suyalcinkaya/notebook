@@ -48,6 +48,12 @@
 - [keycode](http://keycode.info/)
 - [rsms](https://rsms.me/)
 - [memo bottle](https://www.memobottle.eu.com/collections/shop-all)
+- [noeldupont](http://noeldupont.fr/)
+- [koto.studio](https://koto.studio/)
+- [maverland](http://www.maverland.com/)
+- [apostrophe](https://apostrophe.xyz/)
+- [stuur](https://stuur.men/)
+- [jeannebataille](https://jeannebataille.com/)
 
 ## Watches
 - [telhart](https://www.telhart.com/)
