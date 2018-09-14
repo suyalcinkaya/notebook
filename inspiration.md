@@ -48,3 +48,12 @@
 - [keycode](http://keycode.info/)
 - [rsms](https://rsms.me/)
 - [memo bottle](https://www.memobottle.eu.com/collections/shop-all)
+
+## Watches
+- [telhart](https://www.telhart.com/)
+- [void](https://voidwatches.com/)
+- [tid](https://www.tidwatches.com/en/shop/watches/no-1)
+- [instrmnt](https://www.instrmnt.co.uk/)
+- [paulin](https://us.paulinwatches.com/)
+- [braun](https://www.braun-clocks.com/watches.html)
+- [simpl](https://www.simplwatch.com/)
