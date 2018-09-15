@@ -65,6 +65,7 @@
 - [christinecha](https://christinecha.com/)
 - [awsmd](http://www.awsmd.com/)
 - [eugeniegarcia](http://eugeniegarcia.com/)
+- [petalcard](https://www.petalcard.com/)
 
 ## Watches
 - [telhart](https://www.telhart.com/)
