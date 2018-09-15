@@ -54,6 +54,17 @@
 - [apostrophe](https://apostrophe.xyz/)
 - [stuur](https://stuur.men/)
 - [jeannebataille](https://jeannebataille.com/)
+- [allipossess](https://allipossess.com/)
+- [callil](https://callil.com/)
+- [austenezzell](http://www.austenezzell.com/?time=short)
+- [bg-d.net](http://bg-d.net/)
+- [benbate](https://benbate.com/)
+- [edwardhugh.es](https://edwardhugh.es/)
+- [kolin.fr](https://www.kolin.fr/)
+- [sndrgb](http://sndrgb.com/)
+- [christinecha](https://christinecha.com/)
+- [awsmd](http://www.awsmd.com/)
+- [eugeniegarcia](http://eugeniegarcia.com/)
 
 ## Watches
 - [telhart](https://www.telhart.com/)
