@@ -20,7 +20,9 @@ Favorite font list.
 - [Space Grotesk](https://fonts.floriankarsten.com/space-grotesk)
 - [Overpass](http://overpassfont.org/)
 - [Product Sans](https://befonts.com/product-sans-font.html)
+- [Manrope](https://www.behance.net/gallery/67424063/Manrope-Modern-Geometric-Sans-Serif-font-family(FREE))
 
 ### Code
 
 - [Fira Code](https://github.com/tonsky/FiraCode)
+- [Hack](https://sourcefoundry.org/hack/)
