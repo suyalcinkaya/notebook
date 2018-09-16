@@ -21,6 +21,7 @@ Favorite font list.
 - [Overpass](http://overpassfont.org/)
 - [Product Sans](https://befonts.com/product-sans-font.html)
 - [Manrope](https://www.behance.net/gallery/67424063/Manrope-Modern-Geometric-Sans-Serif-font-family(FREE))
+- [L10](https://ortype.is/specimen/l10)
 
 ### Code
 
