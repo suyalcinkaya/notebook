@@ -68,6 +68,7 @@
 - [petalcard](https://www.petalcard.com/)
 - [dmcg.co](http://dmcg.co/)
 - [larsgraubner](https://larsgraubner.com/)
+- [designbyatlas](https://designbyatlas.com/)
 
 ## Watches
 - [telhart](https://www.telhart.com/)
