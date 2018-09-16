@@ -1,8 +1,32 @@
 # Git
 
-### Set a new remote
+### Initialize git
+```bash
+git init
+```
+
+### Add file to commit
+```bash
+git add README.md
+```
+
+### Commit with message
+```bash
+git commit -m "Initial commit"
+```
+or
+```bash
+git commit -m "My head line" -m "My content line."
+```
+
+### Connect project
 ```bash
 git remote add origin https://github.com/user/repo.git
+```
+
+### Push
+```bash
+git push -u origin master
 ```
 
 ### Clone git
