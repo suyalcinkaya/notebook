@@ -31,7 +31,7 @@ git push -u origin master
 
 ### Clone git
 ```bash
-git clone https://github.com/user/repo
+git clone https://github.com/user/repo.git
 ```
 
 ### Global credentials
