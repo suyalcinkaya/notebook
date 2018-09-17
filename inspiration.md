@@ -70,6 +70,7 @@
 - [larsgraubner](https://larsgraubner.com/)
 - [designbyatlas](https://designbyatlas.com/)
 - [werklig](https://www.werklig.com/)
+- [neobi.it](https://neobi.it/)
 
 ## Watches
 - [telhart](https://www.telhart.com/)
