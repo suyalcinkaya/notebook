@@ -27,3 +27,4 @@ Favorite font list.
 
 - [Fira Code](https://github.com/tonsky/FiraCode)
 - [Hack](https://sourcefoundry.org/hack/)
+- [Input](http://input.fontbureau.com/)
