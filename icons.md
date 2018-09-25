@@ -11,3 +11,4 @@
 - [Ionicons](https://ionicons.com/)
 - [Icon Store](https://iconstore.co/)
 - [Zondicons](https://www.zondicons.com/icons.html)
+- [Streamlineicons](https://streamlineicons.com/)
