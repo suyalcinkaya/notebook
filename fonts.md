@@ -23,6 +23,8 @@ Favorite font list.
 - [Manrope](https://www.behance.net/gallery/67424063/Manrope-Modern-Geometric-Sans-Serif-font-family(FREE))
 - [L10](https://ortype.is/specimen/l10)
 - [Times Newer Roman](https://timesnewerroman.com/)
+- [Jost](http://indestructibletype.com/Jost.html)
+- [Orkney](https://fontlibrary.org/en/font/orkney)
 
 ### Code
 
