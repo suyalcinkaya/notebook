@@ -75,6 +75,7 @@
 - [dawnlabs](https://dawnlabs.io/)
 - [caption](https://getcaption.co)
 - [steveschoger](http://www.steveschoger.com/)
+- [kurtvarner](http://kurtvarner.com/)
 
 ## Watches
 - [telhart](https://www.telhart.com/)
