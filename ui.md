@@ -33,3 +33,4 @@
 - [Search](https://codepen.io/andreasstorm/pen/LEmaNG)
 - [Material - Floating label](https://codepen.io/andreasstorm/pen/JXQLdN)
 - [Expanding flex cards](https://codepen.io/z-/pen/OBPJKK)
+- [Chrome Title Bar CSS](https://codepen.io/z-/pen/mGGPXj)
