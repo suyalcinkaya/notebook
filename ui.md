@@ -32,3 +32,4 @@
 - [Blob](https://codepen.io/shubniggurath/pen/EmMzpp)
 - [Search](https://codepen.io/andreasstorm/pen/LEmaNG)
 - [Material - Floating label](https://codepen.io/andreasstorm/pen/JXQLdN)
+- [Expanding flex cards](https://codepen.io/z-/pen/OBPJKK)
