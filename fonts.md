@@ -25,6 +25,7 @@ Favorite font list.
 - [Times Newer Roman](https://timesnewerroman.com/)
 - [Jost](http://indestructibletype.com/Jost.html)
 - [Orkney](https://fontlibrary.org/en/font/orkney)
+- [Rubik](https://fonts.google.com/specimen/Rubik)
 
 ### Code
 
