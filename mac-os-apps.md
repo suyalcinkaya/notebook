@@ -22,3 +22,4 @@
 - [TermBar](http://termbar.com/) — TermBar puts the command line in your Menubar.
 - [Hyper](https://hyper.is/) — A terminal built on web technologies.
 - [NightOwl](https://nightowl.kramser.xyz/) — Small, light-weight app to toggle macOS Mojaves dark mode.
+- [AirBar](https://tiivik.github.io/) — A simple menubar app to connect to your AirPods in a click.
