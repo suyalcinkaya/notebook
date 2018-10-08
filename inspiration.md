@@ -76,6 +76,7 @@
 - [caption](https://getcaption.co)
 - [steveschoger](http://www.steveschoger.com/)
 - [kurtvarner](http://kurtvarner.com/)
+- [zeo digitalzone](https://zeo.org/digitalzone/)
 
 ## Watches
 - [telhart](https://www.telhart.com/)
