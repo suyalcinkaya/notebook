@@ -15,7 +15,17 @@ yarn --ignore-engines
 yarn add foo
 ```
 
+### Remove dependency
+```js
+yarn remove foo
+```
+
 ### Install dependency for dev
 ```js
 yarn add foo --dev
+```
+
+### Remove dependency for dev
+```js
+yarn remove foo --dev
 ```
