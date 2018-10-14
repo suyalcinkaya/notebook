@@ -7,6 +7,9 @@
 
 ## 2018
 
+#### September 29
+My brother got married 🎉
+
 #### September 3
 I started working for Yemeksepeti.
 
