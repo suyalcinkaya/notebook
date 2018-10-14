@@ -34,3 +34,5 @@
 - [Material - Floating label](https://codepen.io/andreasstorm/pen/JXQLdN)
 - [Expanding flex cards](https://codepen.io/z-/pen/OBPJKK)
 - [Chrome Title Bar CSS](https://codepen.io/z-/pen/mGGPXj)
+- [Flippin' burgers](https://codepen.io/ainalem/full/LJYRxz/)
+- [React Stripe Menu](https://codepen.io/aholachek/pen/PaYXEZ)
