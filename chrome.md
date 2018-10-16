@@ -9,3 +9,4 @@
 - [Checker Plus for Google Calendar](https://chrome.google.com/webstore/detail/checker-plus-for-google-c/hkhggnncdpfibdhinjiegagmopldibha)
 - [Backspace to go Back](https://chrome.google.com/webstore/detail/backspace-to-go-back/nlffgllnjjkheddehpolbanogdeaogbc)
 - [Full Page Screen Caption](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
+- [Rubberduck](https://www.rubberduck.io/)
