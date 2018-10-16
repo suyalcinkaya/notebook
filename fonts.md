@@ -26,6 +26,7 @@ Favorite font list.
 - [Jost](http://indestructibletype.com/Jost.html)
 - [Orkney](https://fontlibrary.org/en/font/orkney)
 - [Rubik](https://fonts.google.com/specimen/Rubik)
+- [Celebri Sans](https://www.behance.net/gallery/49139303/Cerebri-Sans)
 
 ### Code
 
