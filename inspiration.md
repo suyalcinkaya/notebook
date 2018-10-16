@@ -77,6 +77,7 @@
 - [steveschoger](http://www.steveschoger.com/)
 - [kurtvarner](http://kurtvarner.com/)
 - [zeo digitalzone](https://zeo.org/digitalzone/)
+- [segment](https://segment.com/)
 
 ## Watches
 - [telhart](https://www.telhart.com/)
