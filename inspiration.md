@@ -78,6 +78,7 @@
 - [kurtvarner](http://kurtvarner.com/)
 - [zeo digitalzone](https://zeo.org/digitalzone/)
 - [segment](https://segment.com/)
+- [personas](https://personas.draftbit.com/)
 
 ## Watches
 - [telhart](https://www.telhart.com/)
