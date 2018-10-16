@@ -7,6 +7,11 @@ code .
 ```
 
 ### Shortcuts
+
+#### Copy line
+<kbd>Shift</kbd> + <kbd>Option</kbd> + <kbd>Down</kbd> or <kbd>Up</kbd>
+
+#### PDF
 - [Mac OS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 - [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
