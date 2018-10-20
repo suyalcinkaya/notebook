@@ -1,5 +1,7 @@
 # Ideas
 
-- [ ] Extension that manages tabs.
-- [ ] Extension that enables backspace-key to go previous page.
-- [ ] Extension that shows https://suyalcinkaya.github.io/klock on new tab.
+- [ ] Build extension that manages tabs.
+- [ ] Build extension that enables backspace-key to go previous page.
+- [ ] Build extension that shows https://suyalcinkaya.github.io/klock on new tab.
+- [ ] Learn Golang.
+- [ ] Learn Omi.js.
