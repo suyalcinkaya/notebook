@@ -79,6 +79,7 @@
 - [zeo digitalzone](https://zeo.org/digitalzone/)
 - [segment](https://segment.com/)
 - [personas](https://personas.draftbit.com/)
+- [interplayapp](https://interplayapp.com/)
 
 ## Watches
 - [telhart](https://www.telhart.com/)
