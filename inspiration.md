@@ -80,6 +80,7 @@
 - [segment](https://segment.com/)
 - [personas](https://personas.draftbit.com/)
 - [interplayapp](https://interplayapp.com/)
+- [scoutium](https://scoutium.com/)
 
 ## Watches
 - [telhart](https://www.telhart.com/)
