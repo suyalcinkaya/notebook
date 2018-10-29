@@ -26,3 +26,4 @@
 - ![#FFAA94](https://placehold.it/15/FFAA94/000000?text=+) `#FFAA94`
 - ![#FFF791](https://placehold.it/15/FFF791/000000?text=+) `#FFF791`
 - ![#FA8B7B](https://placehold.it/15/FA8B7B/000000?text=+) `#FA8B7B`
+- ![#FF4D5B](https://placehold.it/15/FF4D5B/000000?text=+) `#FF4D5B`
