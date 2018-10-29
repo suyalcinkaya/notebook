@@ -23,3 +23,4 @@ code .
 - [Auto Rename Tag by Jun Han](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Beautify by HookyQR](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
+- [Import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
