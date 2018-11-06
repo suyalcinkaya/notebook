@@ -37,3 +37,4 @@
 - [Flippin' burgers](https://codepen.io/ainalem/full/LJYRxz/)
 - [React Stripe Menu](https://codepen.io/aholachek/pen/PaYXEZ)
 - [Simple Stripe.com Like Navigation](https://codepen.io/asistapl/pen/qaPjKd)
+- [Dropdown with Slider](https://codepen.io/drehimself/pen/zPNOOg)
