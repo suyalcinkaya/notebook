@@ -27,6 +27,7 @@ Favorite font list.
 - [Orkney](https://fontlibrary.org/en/font/orkney)
 - [Rubik](https://fonts.google.com/specimen/Rubik)
 - [Celebri Sans](https://www.behance.net/gallery/49139303/Cerebri-Sans)
+- [Nowie Vremena](https://www.myfonts.com/fonts/abstrkt/nowie-vremena/)
 
 ### Code
 
