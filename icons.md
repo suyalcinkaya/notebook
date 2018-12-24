@@ -13,3 +13,4 @@
 - [Zondicons](https://www.zondicons.com/icons.html)
 - [Streamlineicons](https://streamlineicons.com/)
 - [Ikonate](https://www.ikonate.com/)
+- [Jam Icons](https://jam-icons.com/)
