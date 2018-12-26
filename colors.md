@@ -29,3 +29,4 @@
 - ![#FF4D5B](https://placehold.it/15/FF4D5B/000000?text=+) `#FF4D5B`
 - ![#FDEDE4](https://placehold.it/15/FDEDE4/000000?text=+) `#FDEDE4`
 - ![#1DB954](https://placehold.it/15/1DB954/000000?text=+) `#1DB954`
+- ![#F8B681](https://placehold.it/15/F8B681/000000?text=+) `#F8B681`
