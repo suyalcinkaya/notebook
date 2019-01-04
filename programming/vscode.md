@@ -24,3 +24,4 @@ code .
 - [Live Server by Ritwick Dey](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Beautify by HookyQR](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 - [Import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
