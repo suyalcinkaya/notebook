@@ -25,3 +25,4 @@ code .
 - [Beautify by HookyQR](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify)
 - [Import cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
