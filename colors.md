@@ -30,3 +30,8 @@
 - ![#FDEDE4](https://placehold.it/15/FDEDE4/000000?text=+) `#FDEDE4`
 - ![#1DB954](https://placehold.it/15/1DB954/000000?text=+) `#1DB954`
 - ![#F8B681](https://placehold.it/15/F8B681/000000?text=+) `#F8B681`
+- ![#FFB471](https://placehold.it/15/FFB471/000000?text=+) `#FFB471`
+- ![#FF9398](https://placehold.it/15/FF9398/000000?text=+) `#FF9398`
+- ![#60D6E5](https://placehold.it/15/60D6E5/000000?text=+) `#60D6E5`
+- ![#00C99C](https://placehold.it/15/00C99C/000000?text=+) `#00C99C`
+- ![#0A2A64](https://placehold.it/15/0A2A64/000000?text=+) `#0A2A64`
