@@ -15,3 +15,8 @@ ls
 ```bash
 sudo ...
 ```
+
+## Ignoring case when using tab completion
+```bash
+echo set completion-ignore-case on | sudo tee -a /etc/inputrc
+```
