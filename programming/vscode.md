@@ -27,3 +27,52 @@ code .
 - [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag)
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode)
 - [VSCode IntelliSense TailwindCSS](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+
+### Settings
+```
+{
+  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "workbench.fontAliasing": "antialiased",
+  "breadcrumbs.enabled": true,
+  "workbench.colorTheme": "Super One Dark",
+  "editor.fontSize": 13,
+  "terminal.integrated.fontSize": 13,
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          //following will be in italic (=FlottFlott)
+          "comment",
+          "entity.name.type.class", //class names
+          "keyword", //import, export, return…
+          "constant", //String, Number, Boolean…, this, super
+          "storage.modifier", //static keyword
+          "storage.type.class.js", //class keyword
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": [
+          //following will be excluded from italics (VSCode has some defaults for italics)
+          "invalid",
+          "keyword.operator",
+          "constant.numeric.css",
+          "keyword.other.unit.px.css",
+          "constant.numeric.decimal.js",
+          "constant.numeric.json"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  }
+}
+```
