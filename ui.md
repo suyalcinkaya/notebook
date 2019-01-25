@@ -1,5 +1,12 @@
 # UI improvements & tricks
 
+#### Illustrations
+
+- [humaaans](https://www.humaaans.com/)
+- [Personas](https://personas.draftbit.com/)
+- [undraw](https://undraw.co/)
+- [drawkit](https://www.drawkit.io/)
+
 #### Improvements
 - [RefactoringUI](https://refactoringui.com/)
 - [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist)
