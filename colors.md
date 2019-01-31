@@ -36,3 +36,4 @@
 - ![#00C99C](https://placehold.it/15/00C99C/000000?text=+) `#00C99C`
 - ![#0A2A64](https://placehold.it/15/0A2A64/000000?text=+) `#0A2A64`
 - ![#f8b585](https://placehold.it/15/f8b585/000000?text=+) `#f8b585`
+- ![#159f9e](https://placehold.it/15/159f9e/000000?text=+) `#159f9e`
