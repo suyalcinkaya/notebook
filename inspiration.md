@@ -83,6 +83,8 @@
 - [scoutium](https://scoutium.com/)
 - [belgiantrain](https://www.belgiantrain.be/en)
 - [stefanzweifel](https://stefanzweifel.io/)
+- [typewolf](https://www.typewolf.com)
+
 
 ## Watches
 - [telhart](https://www.telhart.com/)
