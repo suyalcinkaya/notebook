@@ -28,6 +28,7 @@ Favorite font list.
 - [Rubik](https://fonts.google.com/specimen/Rubik)
 - [Celebri Sans](https://www.behance.net/gallery/49139303/Cerebri-Sans)
 - [Nowie Vremena](https://www.myfonts.com/fonts/abstrkt/nowie-vremena/)
+- [Gilroy](https://www.tinkov.info/gilroy.html)
 
 ### Code
 
