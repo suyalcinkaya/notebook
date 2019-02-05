@@ -40,3 +40,4 @@
 - ![#008489](https://placehold.it/15/008489/000000?text=+) `#008489`
 - ![#007A87](https://placehold.it/15/007A87/000000?text=+) `#007A87`
 - ![#00A699](https://placehold.it/15/00A699/000000?text=+) `#00A699`
+- ![#6DE98D](https://placehold.it/15/6DE98D/000000?text=+) `#6DE98D`
