@@ -46,3 +46,4 @@
 - [Simple Stripe.com Like Navigation](https://codepen.io/asistapl/pen/qaPjKd)
 - [Dropdown with Slider](https://codepen.io/drehimself/pen/zPNOOg)
 - [Visa, Master](https://codepen.io/drew_mc/pen/rLkRjw)
+- [Animated Hamburger Icons](https://march08.github.io/animated-burgers/)
