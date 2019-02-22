@@ -30,6 +30,7 @@ Favorite font list.
 - [Nowie Vremena](https://www.myfonts.com/fonts/abstrkt/nowie-vremena/)
 - [Gilroy](https://www.tinkov.info/gilroy.html)
 - [Metropolis](https://github.com/chrismsimpson/Metropolis)
+- [Sailec](https://www.myfonts.com/fonts/typedynamic/sailec/)
 
 ### Code
 
