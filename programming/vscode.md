@@ -31,7 +31,7 @@ code .
 ### Settings
 ```
 {
-  "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontFamily": "Andale Mono, Operator Mono, Menlo, Monaco, 'Courier New', monospace",
   "editor.fontLigatures": true,
   "workbench.fontAliasing": "antialiased",
   "breadcrumbs.enabled": true,
