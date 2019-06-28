@@ -2,6 +2,7 @@
 
 ## Websites
 - [loom](https://www.useloom.com/)
+- [appbot](https://appbot.co/)
 - [pixelsnap](https://getpixelsnap.com/)
 - [numi](https://numi.io/)
 - [pi](https://www.pipipi.co/about)
