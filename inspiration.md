@@ -87,6 +87,7 @@
 - [stefanzweifel](https://stefanzweifel.io/)
 - [typewolf](https://www.typewolf.com)
 - [taniarascia](https://www.taniarascia.com)
+- [buffer](https://buffer.com/)
 
 
 ## Watches
