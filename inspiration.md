@@ -88,6 +88,7 @@
 - [typewolf](https://www.typewolf.com)
 - [taniarascia](https://www.taniarascia.com)
 - [buffer](https://buffer.com/)
+- [kentcdodds](https://kentcdodds.com/)
 
 
 ## Watches
