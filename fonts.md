@@ -33,6 +33,7 @@ Favorite font list.
 - [Gilroy](https://www.tinkov.info/gilroy.html)
 - [Metropolis](https://github.com/chrismsimpson/Metropolis)
 - [Sailec](https://www.myfonts.com/fonts/typedynamic/sailec/)
+- [Messina](https://luzi-type.ch/messina)
 
 ### Code
 
