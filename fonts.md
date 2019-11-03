@@ -34,6 +34,7 @@ Favorite font list.
 - [Metropolis](https://github.com/chrismsimpson/Metropolis)
 - [Sailec](https://www.myfonts.com/fonts/typedynamic/sailec/)
 - [Messina](https://luzi-type.ch/messina)
+- [Walsheim](https://www.grillitype.com/typeface/gt-walsheim)
 
 ### Code
 
