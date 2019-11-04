@@ -48,3 +48,4 @@
 - [Visa, Master](https://codepen.io/drew_mc/pen/rLkRjw)
 - [Animated Hamburger Icons](https://march08.github.io/animated-burgers/)
 - [UI Kit](https://codepen.io/aaroniker/full/qLvXKy)
+- [Link hover effects](https://codepen.io/kathykato/pen/zYYRGRQ)
