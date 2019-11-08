@@ -49,3 +49,4 @@
 - [Animated Hamburger Icons](https://march08.github.io/animated-burgers/)
 - [UI Kit](https://codepen.io/aaroniker/full/qLvXKy)
 - [Link hover effects](https://codepen.io/kathykato/pen/zYYRGRQ)
+- [Jelly Checkbox](https://codepen.io/andreasstorm/pen/dNqLBz)
