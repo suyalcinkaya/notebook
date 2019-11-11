@@ -50,3 +50,4 @@
 - [UI Kit](https://codepen.io/aaroniker/full/qLvXKy)
 - [Link hover effects](https://codepen.io/kathykato/pen/zYYRGRQ)
 - [Jelly Checkbox](https://codepen.io/andreasstorm/pen/dNqLBz)
+- [Download Button Animation](https://codepen.io/aaroniker/pen/MWgNKGr)
