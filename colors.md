@@ -43,3 +43,4 @@
 - ![#6DE98D](https://placehold.it/15/6DE98D/000000?text=+) `#6DE98D`
 - ![#62e6ac](https://placehold.it/15/62e6ac/000000?text=+) `#62e6ac`
 - ![#ff8c5f](https://placehold.it/15/ff8c5f/000000?text=+) `#ff8c5f`
+- ![#F3E5D3](https://placehold.it/15/F3E5D3/000000?text=+) `#F3E5D3`
