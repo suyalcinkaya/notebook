@@ -62,3 +62,5 @@
 - [Day / Night Switch](https://codepen.io/aaroniker/details/KGpXZo)
 - [Fancy multiple select](https://codepen.io/aaroniker/pen/VGMwLd)
 - [Add to collection button](https://codepen.io/aaroniker/pen/zaQaqj)
+- [Bandersnatch logo](https://codepen.io/miduga/pen/REMbww)
+- [Bandersnatch timer bar](https://codepen.io/diguifi/pen/daVGVJ)
