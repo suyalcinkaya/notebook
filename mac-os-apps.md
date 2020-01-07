@@ -23,3 +23,6 @@
 - [Hyper](https://hyper.is/) — A terminal built on web technologies.
 - [NightOwl](https://nightowl.kramser.xyz/) — Small, light-weight app to toggle macOS Mojaves dark mode.
 - [AirBar](https://tiivik.github.io/) — A simple menubar app to connect to your AirPods in a click.
+- [Vanilla](https://matthewpalmer.net/vanilla/) — Hide menu bar icons on your Mac.
+
+
