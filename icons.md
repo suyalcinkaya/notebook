@@ -16,3 +16,4 @@
 - [Jam Icons](https://jam-icons.com/)
 - [Zondicons](http://www.zondicons.com/icons.html)
 - [Themify](https://themify.me/themify-icons)
+- [Icomoon](https://icomoon.io/)
