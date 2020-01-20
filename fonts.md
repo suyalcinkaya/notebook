@@ -35,9 +35,11 @@ Favorite font list.
 - [Sailec](https://www.myfonts.com/fonts/typedynamic/sailec/)
 - [Messina](https://luzi-type.ch/messina)
 - [Walsheim](https://www.grillitype.com/typeface/gt-walsheim)
+- [Rt Rondelle](http://www.rt-rondelle.com/)
 
 ### Code
 
 - [Fira Code](https://github.com/tonsky/FiraCode)
 - [Hack](https://sourcefoundry.org/hack/)
 - [Input](http://input.fontbureau.com/)
+- [Dank Mono](https://dank.sh/)
