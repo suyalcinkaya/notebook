@@ -11,7 +11,7 @@ Favorite font list.
 - [Airbnb Cereal](https://drive.google.com/file/d/1VKJeQntqcL6GdD09QpqEYB0s32LdILv4/view?ref=producthunt)
 - [Google Sans](https://www.teamandroid.com/2018/03/04/download-google-sans-font/)
 - [HK Grotesk](https://hanken.co/hk-grotesk)
-- [Cerebri Sans Pro](https://hanken.co/cerebri-sans-pro)
+- [Cerebri Sans Pro*](https://www.myfonts.com/fonts/hanken-designco/cerebri-sans/)
 - [fugue](https://radimpesko.com/fonts/fugue)
 - [Avenir](https://www.fonts.com/font/linotype/avenir)
 - [Gordita](https://www.fontspring.com/fonts/gillett-studio/gordita)
