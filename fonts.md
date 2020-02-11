@@ -36,6 +36,7 @@ Favorite font list.
 - [Messina](https://luzi-type.ch/messina)
 - [Walsheim](https://www.grillitype.com/typeface/gt-walsheim)
 - [Rt Rondelle](http://www.rt-rondelle.com/)
+- [Mier](https://www.generaltypestudio.com/fonts/mier)
 
 ### Code
 
