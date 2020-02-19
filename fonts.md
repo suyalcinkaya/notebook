@@ -37,6 +37,7 @@ Favorite font list.
 - [Walsheim](https://www.grillitype.com/typeface/gt-walsheim)
 - [Rt Rondelle](http://www.rt-rondelle.com/)
 - [Mier](https://www.generaltypestudio.com/fonts/mier)
+- [Univers LT Std](https://www.cufonfonts.com/font/univers-lt-std)
 
 ### Code
 
