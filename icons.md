@@ -17,3 +17,4 @@
 - [Zondicons](http://www.zondicons.com/icons.html)
 - [Themify](https://themify.me/themify-icons)
 - [Icomoon](https://icomoon.io/)
+- [Milkicons](https://www.milkicons.com/)
