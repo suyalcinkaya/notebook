@@ -45,3 +45,5 @@ Favorite font list.
 - [Hack](https://sourcefoundry.org/hack/)
 - [Input](http://input.fontbureau.com/)
 - [Dank Mono](https://dank.sh/)
+- [Fantasque](https://github.com/belluzj/fantasque-sans)
+- [Jetbrains Mono](https://www.jetbrains.com/lp/mono/)
