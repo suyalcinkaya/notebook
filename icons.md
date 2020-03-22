@@ -18,3 +18,4 @@
 - [Themify](https://themify.me/themify-icons)
 - [Icomoon](https://icomoon.io/)
 - [Milkicons](https://www.milkicons.com/)
+- [Eva Icons](https://akveo.github.io/eva-icons/#/)
