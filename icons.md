@@ -4,7 +4,6 @@
 - [City Sets](http://citysets.co.uk/)
 - [The Noun Project](https://thenounproject.com/)
 - [Illustrio](https://illustrio.com/)
-- [Heroicons](http://www.heroicons.com/)
 - [Open Iconic](https://useiconic.com/open)
 - [Icon Scout](https://iconscout.com/)
 - [Icon Monstr](https://iconmonstr.com/)
@@ -19,3 +18,4 @@
 - [Icomoon](https://icomoon.io/)
 - [Milkicons](https://www.milkicons.com/)
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
+- [Heroicons](https://heroicons.dev/)
