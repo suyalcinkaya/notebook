@@ -19,3 +19,4 @@
 - [Milkicons](https://www.milkicons.com/)
 - [Eva Icons](https://akveo.github.io/eva-icons/#/)
 - [Heroicons](https://heroicons.dev/)
+- [Remixion](http://remixicon.com/)
