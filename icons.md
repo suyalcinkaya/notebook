@@ -22,3 +22,4 @@
 - [Remixion](http://remixicon.com/)
 - [CSS gg](https://css.gg/app)
 - [GitHub Octions](https://primer.style/octicons-v2/)
+- [Bootstrap Icons](https://icons.getbootstrap.com/#icons)
