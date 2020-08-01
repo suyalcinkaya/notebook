@@ -25,3 +25,4 @@
 - [Bootstrap Icons](https://icons.getbootstrap.com/#icons)
 - [Tabler Icons](https://tablericons.com)
 - [Teeny Icons](https://teenyicons.com/)
+- [System UI Icons](https://systemuicons.com/)
