@@ -26,3 +26,4 @@
 - [Tabler Icons](https://tablericons.com)
 - [Teeny Icons](https://teenyicons.com/)
 - [System UI Icons](https://systemuicons.com/)
+- [Zwicon](https://www.zwicon.com/cheatsheet.html)
