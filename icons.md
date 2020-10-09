@@ -27,3 +27,4 @@
 - [Teeny Icons](https://teenyicons.com/)
 - [System UI Icons](https://systemuicons.com/)
 - [Zwicon](https://www.zwicon.com/cheatsheet.html)
+- [Radix Icons](https://icons.modulz.app/)
