@@ -38,6 +38,7 @@ Favorite font list.
 - [Rt Rondelle](http://www.rt-rondelle.com/)
 - [Mier](https://www.generaltypestudio.com/fonts/mier)
 - [Univers LT Std](https://www.cufonfonts.com/font/univers-lt-std)
+- [Basier](https://www.atipofoundry.com/fonts/basier)
 
 ### Code
 
