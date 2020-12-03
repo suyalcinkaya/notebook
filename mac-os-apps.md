@@ -24,5 +24,4 @@
 - [NightOwl](https://nightowl.kramser.xyz/) — Small, light-weight app to toggle macOS Mojaves dark mode.
 - [AirBar](https://tiivik.github.io/) — A simple menubar app to connect to your AirPods in a click.
 - [Vanilla](https://matthewpalmer.net/vanilla/) — Hide menu bar icons on your Mac.
-
-
+- [Responsively](https://responsively.app/) — A must-have DevTool for all Front-End developers that will make your job easier.
