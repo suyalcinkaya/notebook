@@ -49,3 +49,4 @@
 - ![#C3CDC0](https://placehold.it/15/C3CDC0/000000?text=+) `#C3CDC0`
 - ![#03A699](https://placehold.it/15/03A699/000000?text=+) `#03A699`
 - ![#889483](https://placehold.it/15/889483/000000?text=+) `#889483`
+- ![#9ba0b0](https://placehold.it/15/9ba0b0/000000?text=+) `#9ba0b0`
