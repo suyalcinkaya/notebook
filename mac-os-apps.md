@@ -25,3 +25,5 @@
 - [AirBar](https://tiivik.github.io/) — A simple menubar app to connect to your AirPods in a click.
 - [Vanilla](https://matthewpalmer.net/vanilla/) — Hide menu bar icons on your Mac.
 - [Responsively](https://responsively.app/) — A must-have DevTool for all Front-End developers that will make your job easier.
+- [Captin](https://captin.mystrikingly.com/) — A tool to show Mac caps lock status.
+- [Raycast](https://www.raycast.com/) — Raycast lets you control your tools with a few keystrokes.
